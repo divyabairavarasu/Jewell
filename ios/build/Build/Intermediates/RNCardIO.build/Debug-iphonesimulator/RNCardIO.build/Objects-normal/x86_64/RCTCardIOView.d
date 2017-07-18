@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/RCTCardIOView.m \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/RCTCardIOView.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/CardIO/CardIO.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/CardIO/CardIOCreditCardInfo.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/CardIO/CardIODetectionMode.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/CardIO/CardIOView.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/CardIO/CardIOViewDelegate.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/CardIO/CardIOPaymentViewController.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/CardIO/CardIOPaymentViewControllerDelegate.h \
+  /Users/divya/workspace/ReactNative2Workspace/prod/Jewell-Sandeep/node_modules/react-native-awesome-card-io/ios/CardIO/CardIOUtilities.h

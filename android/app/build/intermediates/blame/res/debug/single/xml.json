@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/divya/Desktop/Jewell/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/Jewell/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/divya/Desktop/Jewell/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/res/xml/preferences.xml"
+    }
+]

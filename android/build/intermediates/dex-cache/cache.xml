@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7fb62658b10330e5ff94fe5482c275ceef5805e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_5fd622c936fe8b5b82b3f7e463f2e8fd0d05dc53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_564dce992c35294a4f3bfee8e7432f78b7853b2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_bd28b4131f49eaff3ff4e6dee0257bb34ce8aa31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/Jewell/react-native-image-resizer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3689da4786d5e3cb4170f06613c39335c59a9e74">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/Jewell-react-native-image-resizer-unspecified_034fbcf1ec837a913ee556e11e7a6aad25536b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.1_4d5bdc6cfcbdf746e8efc463576fd12da2cd045d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_09d741b076f21a01774352e6127f289533d9b650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_27060701e87b0c2fb76ac0a2f4e653c1057e417a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9959559023f77c1f7767e69f9894e357f532e74b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ba22b822bdaf5173815e92cf760d1b762d47415e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_7dac483d117d98c447951492680f827dce82810f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_3c9d681a5a17695b07a7ee50bb691407dbd580a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_29fe2bd6a0ce95066e5527d23353432232fb85f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1b572902bc53e3b26f8dad0b1585a1598177c79a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_508c4a8de918bc693c059e00e4c32b67be5fe409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_999fee6847a8c35c6f7c905464f0c40dea4fd105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/Jewell/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3cf285c3125aea5a7601edf79f116985ecdfbd86">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/Jewell-react-native-image-picker-unspecified_44bfcb6e45a81deee4b1b27e7eee8ba6f99c24f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_02cb6c56852f6578b0bdf33c1384b2957d6fdf5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/Jewell/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4efbf2247513fe09da1d747a3fff0a3b59c1501b">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/Jewell-react-native-fetch-blob-unspecified_ef059bce31d0f3f10fe62531352f12b483768965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_afe470830e33840c6c7ad80b80ee211d7007afe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_366b96b251dd36dfdd98552bef2ca9fc95d864b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e537f95d01a38d4a83f466fc25100447720b5811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_5e0ef066000d189926b19a1c4d3b917a47bcd2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_8629db7ab42ea351a7bb1fd451527f6accf57185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/divya/Desktop/Jewell/android/app/build/intermediates/exploded-aar/Jewell/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/divya/Desktop/Jewell/android/app/build/intermediates/pre-dexed/debug/Jewell-react-native-vector-icons-unspecified_89f7e377fb91451262fdafc18da4a2ca1ffeb1b0.jar" />
+    </item>
+
+</items>
